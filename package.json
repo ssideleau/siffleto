@@ -1,0 +1,42 @@
+{
+  "name": "siffleto",
+  "version": "1.0.0",
+  "description": "A content management system for hockey leagues",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssideleau/siffleto.git"
+  },
+  "keywords": [
+    "hockey",
+    "sports"
+  ],
+  "author": "Samuel Sideleau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssideleau/siffleto/issues"
+  },
+  "homepage": "https://github.com/ssideleau/siffleto#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "chai": "^3.5.0",
+    "chai-webdriver": "^1.2.0",
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.5.0",
+    "mocha": "^3.1.2",
+    "selenium-webdriver": "^3.0.0-beta-3"
+  }
+}
