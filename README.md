@@ -1,2 +1,2 @@
-[![Code Climate](https://codeclimate.com/github/ssideleau/siffleto/badges/gpa.svg)](https://codeclimate.com/github/ssideleau/siffleto)
+[![Build Status](https://travis-ci.org/ssideleau/siffleto.svg?branch=master)](https://travis-ci.org/ssideleau/siffleto) [![Code Climate](https://codeclimate.com/github/ssideleau/siffleto/badges/gpa.svg)](https://codeclimate.com/github/ssideleau/siffleto)
 # siffleto
